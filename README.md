@@ -15,9 +15,9 @@
 
 ▶️ MI EXPERIENCIA PROFESIONAL 🧰◀️
 
-🕒 Con más de tres años de experiencia, he fortalecido significativamente mis habilidades en análisis de sistemas y diseño de software.
-🤝 Este periodo me ha permitido trabajar en una variedad de proyectos, aplicando tecnologías avanzadas y metodologías ágiles para entregar soluciones efectivas y eficientes.
-🖥 He colaborado con diversos departamentos, mejorando procesos y fomentando la innovación tecnológica.
+🕒 Con más de tres años de experiencia, he fortalecido significativamente mis habilidades en análisis de sistemas y diseño de software.<br>
+🤝 Este periodo me ha permitido trabajar en una variedad de proyectos, aplicando tecnologías avanzadas y metodologías ágiles para entregar soluciones efectivas y eficientes.<br>
+🖥 He colaborado con diversos departamentos, mejorando procesos y fomentando la innovación tecnológica.<br>
 
 ▶️ MÁS ALLÁ DE LA TECNOLOGÍA🌱◀️
 
