@@ -62,4 +62,4 @@ GRACIAS POR VISITAR MI PERFIL 🌟🎉 Espero que tengas un día increíble. Rec
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 # 📊 Proyectos en GitHub:
-![Proyectos GitHub](./status.png)
+![Proyectos GitHub](./status2.png)
