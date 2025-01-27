@@ -9,15 +9,16 @@
 
 ▶️ CONOCIMIENTOS Y HABILIDADES 🔍◀️
 
-🏛 Estudiante del X ciclo en Ingeniería de Sistemas, Universidad Nacional de Cañete.<br>
-🌎 Pasantía internacional en Ciudad de Panamá, enriqueciendo mi perfil global.<br>
-🖥️ Especialización en CJAVA - PERÚ, centrado en el desarrollo Full Stack.<br>
+🏛 Egresado de la Carrera de Ingeniería de Sistemas, Universidad Nacional de Cañete.
+🌎 Pasantía internacional en Ciudad de Panamá, enriqueciendo mi perfil global.
+🖥️ Especialización en CJAVA - PERÚ, centrado en el desarrollo Full Stack.
+🏆 Reconocido con el 1er Puesto en FEINFO I y II. Líneas de Investigación: Ciencia de Datos e Inteligencia Artificial.
 
 ▶️ MI EXPERIENCIA PROFESIONAL 🧰◀️
 
-🕒 Con más de tres años de experiencia, he fortalecido significativamente mis habilidades en análisis de sistemas y diseño de software.<br>
-🤝 Este periodo me ha permitido trabajar en una variedad de proyectos, aplicando tecnologías avanzadas y metodologías ágiles para entregar soluciones efectivas y eficientes.<br>
-🖥 He colaborado con diversos departamentos, mejorando procesos y fomentando la innovación tecnológica.<br>
+🕒 Con más de cuatro años de experiencia, he fortalecido significativamente mis habilidades en análisis de sistemas y diseño de software.
+🤝 Este periodo me ha permitido trabajar en una variedad de proyectos, aplicando tecnologías avanzadas y metodologías ágiles para entregar soluciones efectivas y eficientes.
+🖥 He colaborado con diversos departamentos, mejorando procesos y fomentando la innovación tecnológica.
 
 ▶️ MÁS ALLÁ DE LA TECNOLOGÍA🌱◀️
 
